@@ -1,5 +1,5 @@
 # x64ASM
 Studying x64 assembly
 
--Interger Data Types
-###bit -> byte -> word -> qword
+*Integer Data Types
+### bit -> byte -> word -> qword
