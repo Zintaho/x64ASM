@@ -12,7 +12,7 @@ https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/x64-architect
 ###### - AX / BX / CX / DX
 ###### - SI / DI
 ###### - BP / SP
-###### - R[8-15]
+###### - R[8-15] (new in X64)
 ###### - IP
 ###### - CS / FS / GS / (DS / SS / ES : deprecated in X64)
 
